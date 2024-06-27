@@ -78,12 +78,6 @@ import CreateBookingForm from "./features/bookings/CreateBookingForm";
 
 ~ Setting up React Query:-
 
-1]    
-
-
-  
-  you will nedd this to connect the remote repository with your local respository.
-
 */
 
 //Creating a query client
