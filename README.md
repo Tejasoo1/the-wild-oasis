@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # The Wild Oasis
 
-Main Project of Tejas Patil
+Main Project :- Bulit with React Query & supabase

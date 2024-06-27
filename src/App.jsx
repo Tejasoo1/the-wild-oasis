@@ -80,6 +80,10 @@ import CreateBookingForm from "./features/bookings/CreateBookingForm";
 
 1]    
 
+! repository Token:
+  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
+  
+  you will nedd this to connect the remote repository with your local respository.
 
 */
 
